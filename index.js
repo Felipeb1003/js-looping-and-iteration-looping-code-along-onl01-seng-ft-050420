@@ -11,7 +11,7 @@ function writeCards( names, birthday) {
 }
 
 
-function 
+function countDown
 while (n <= 0){
   
   
