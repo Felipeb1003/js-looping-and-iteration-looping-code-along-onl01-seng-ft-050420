@@ -13,7 +13,7 @@ function writeCards( names, birthday) {
 
 function countDown(number) {
     while (n > 0){
-      consog
+      console.log
   
   
 }
