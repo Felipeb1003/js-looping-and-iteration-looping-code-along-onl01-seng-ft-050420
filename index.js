@@ -14,7 +14,8 @@ function writeCards( names, birthday) {
 function countDown(number) {
     while (n > 0){
       console.log(number);
-      
+      number -= 1
+    }
   
   
 }
