@@ -11,6 +11,7 @@ function writeCards( names, birthday) {
 }
 
 
+function 
 while (n <= 0){
   
   
