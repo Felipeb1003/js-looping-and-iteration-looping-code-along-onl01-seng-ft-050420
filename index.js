@@ -10,3 +10,8 @@ function writeCards( names, birthday) {
  return cards
 }
 
+
+while (n <= 0){
+  
+  
+}
